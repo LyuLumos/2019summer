@@ -1,5 +1,5 @@
 # -*- coding=utf-8 -*-
-# 爬取一个月内点赞数前10的网页标题
+# 爬取一个月内评论数前10的网页标题
 # 引入需要使用到的库 
 import time
 from selenium import webdriver
