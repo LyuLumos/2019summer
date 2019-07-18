@@ -1,5 +1,5 @@
-# -*- coding=utf-8 -*-
-# update:加入时间地点
+﻿# -*- coding=utf-8 -*-
+# update:加入时间
 # 引入需要使用到的库 
 # requests是一个提交http请求的常用的库。
 import requests
